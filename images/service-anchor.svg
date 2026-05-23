@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" fill="#edf4fb"/>
+<rect x="0" y="370" width="900" height="190" fill="#d1d9e2"/>
+<rect x="70" y="250" width="90" height="120" fill="#8194a8"/>
+<rect x="190" y="200" width="120" height="170" fill="#9aabbc"/>
+<rect x="340" y="280" width="90" height="90" fill="#71869d"/>
+<path d="M80 130 L430 130 M120 90 L170 370" stroke="#d99522" stroke-width="10"/>
+<circle cx="675" cy="295" r="110" fill="#005bac" opacity=".12"/>
+<rect x="590" y="140" width="60" height="240" rx="12" fill="#3c4653"/>
+<g stroke="#151a20" stroke-width="5"><path d="M590 165 H650 M590 195 H650 M590 225 H650 M590 255 H650 M590 285 H650 M590 315 H650 M590 345 H650"/></g>
+<polygon points="540,230 700,230 735,285 700,340 540,340 505,285" fill="#8e99a5"/>
+<text x="55" y="70" font-size="34" font-family="sans-serif" font-weight="bold" fill="#003b7a">あと施工アンカー工事</text>
+<text x="55" y="115" font-size="20" font-family="sans-serif" fill="#1f2937">構造物を支える確かな固定技術</text>
+</svg>
